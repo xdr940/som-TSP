@@ -27,7 +27,7 @@ python src/main.py
 
 ![test](./test.gif)
 
-![](./losses.png)
+![losses](./losses.png)
 
 # M2CT2020
 
